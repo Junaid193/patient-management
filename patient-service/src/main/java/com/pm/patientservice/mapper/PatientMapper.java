@@ -1,5 +1,6 @@
 package com.pm.patientservice.mapper;
 
+import com.pm.patientservice.dto.PatientRequestDTO;
 import com.pm.patientservice.dto.PatientResponseDTO;
 import com.pm.patientservice.model.Patient;
 
@@ -17,7 +18,7 @@ public class PatientMapper {
         return patientDTO;
     }
 
-    public static Patient toModel(PatientResponseDTO patientRequestDTO) {
+    public static Patient toModel(PatientRequestDTO patientRequestDTO) {
         Patient patient = new Patient();
         patient.setName(patientRequestDTO.getName());
         patient.setAddress(patientRequestDTO.getAddress());
