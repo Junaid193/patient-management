@@ -7,7 +7,6 @@ content-Type: application/json
   "name" : "Junaid",
   "email" : "junni@gmail.com",
   "address": "bangkok",
-  "dateOfBirth": "2000-05-09",
-  "registeredDate": "2026-06-30"
+  "dateOfBirth": "2000-05-09"
 }
 ###

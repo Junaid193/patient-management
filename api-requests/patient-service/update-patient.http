@@ -1,0 +1,12 @@
+### Update an existing patient entity
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+content-Type: application/json
+
+
+{
+  "name" : "Junaid",
+  "email" : "junnithedon@gmial.com",
+  "address": "bangkok",
+  "dateOfBirth": "2000-05-09"
+}
+###
