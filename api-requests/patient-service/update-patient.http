@@ -4,9 +4,9 @@ content-Type: application/json
 
 
 {
-  "name" : "Junaid",
-  "email" : "junnithedon@gmial.com",
-  "address": "bangkok",
-  "dateOfBirth": "2000-05-09"
+  "name" : "John Doe Updates",
+  "email" : "john.doe@example.com",
+  "address": "123 Main St, Springfield",
+  "dateOfBirth": "1985-06-15"
 }
 ###
