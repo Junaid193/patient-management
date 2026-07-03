@@ -19,6 +19,9 @@
           <option value="patient-service" />
           <option value="patient-service" />
           <option value="patient-service" />
+          <option value="billing-service" />
+          <option value="billing-service" />
+          <option value="billing-service" />
         </list>
       </option>
       <option name="ignoredPackages">
@@ -36,6 +39,9 @@
           <option value="org.springframework:spring-web:6.2.0" />
           <option value="org.springframework:spring-webmvc:6.2.0" />
           <option value="org.apache.commons:commons-lang3:3.17.0" />
+          <option value="org.springframework.boot:spring-boot:3.4.0" />
+          <option value="net.minidev:json-smart:2.5.1" />
+          <option value="org.assertj:assertj-core:3.26.3" />
         </list>
       </option>
       <option name="ignoredReasons">
@@ -53,6 +59,9 @@
           <option value="." />
           <option value="Other" />
           <option value="In progress" />
+          <option value="In progress" />
+          <option value="Not exploitable" />
+          <option value="Fixed in branch" />
         </list>
       </option>
     </inspection_tool>
