@@ -4,10 +4,10 @@ content-Type: application/json
 
 
 {
-  "name" : "Junaid",
-  "email" : "junni@gmail.com",
-  "address": "bangkok",
-  "dateOfBirth": "2000-05-09",
-  "registeredDate": "2026-07-01"
+  "name" : "John Doe with billing account",
+  "email" : "test_billing_account@example.com",
+  "address": "123 main street22",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2026-07-07"
 }
 ###
